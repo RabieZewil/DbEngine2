@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a1d53a2-01c1-4725-ac1c-58bf7d1ccc67" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2dFzBNiIwDisSybPP81CnlQxQIY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="E:/Project_1_Team_71 - Rabie Zewil" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LAPTOP\IdeaProjects\DbEngine\src" />
+      <recent name="C:\Users\LAPTOP\IdeaProjects\DbEngine" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DBApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DBApp" />
+      <module name="DbEngine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DBApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-5720f15e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a1d53a2-01c1-4725-ac1c-58bf7d1ccc67" name="Changes" comment="" />
+      <created>1709618485083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709618485083</updated>
+      <workItem from="1709618486209" duration="116000" />
+      <workItem from="1709618624049" duration="5022000" />
+      <workItem from="1709690502246" duration="741000" />
+      <workItem from="1709802971294" duration="2710000" />
+      <workItem from="1709814895403" duration="10717000" />
+      <workItem from="1709923120694" duration="973000" />
+      <workItem from="1710107306220" duration="18147000" />
+      <workItem from="1710407505171" duration="1848000" />
+      <workItem from="1710705269306" duration="67000" />
+      <workItem from="1711018896241" duration="9127000" />
+      <workItem from="1712090556668" duration="6780000" />
+      <workItem from="1712153773774" duration="13976000" />
+      <workItem from="1712230106133" duration="36452000" />
+      <workItem from="1712437119931" duration="3117000" />
+      <workItem from="1712444565645" duration="173000" />
+      <workItem from="1712505066305" duration="1196000" />
+      <workItem from="1713343084664" duration="17692000" />
+      <workItem from="1713428026689" duration="6694000" />
+      <workItem from="1713452405108" duration="4828000" />
+      <workItem from="1713466317870" duration="411000" />
+      <workItem from="1713467057536" duration="1082000" />
+      <workItem from="1713537571751" duration="5377000" />
+      <workItem from="1713604231255" duration="242000" />
+      <workItem from="1713604496764" duration="26313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
